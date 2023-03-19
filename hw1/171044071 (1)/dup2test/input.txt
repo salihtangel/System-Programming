@@ -1,0 +1,2 @@
+This is some text that will be written to both the console and the output file.
+This is another line of text that will also be written to both the console and the output file.

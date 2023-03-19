@@ -1,0 +1,5 @@
+^ yapmaya calisiyorsunn 256. satirda kaldin. sadece satir baslarinda str1 varsa degisiklik yapmak istiyorsun. Bunu saglamak icin replacewordu fonksiyonu degistirmelisin  yada  replace word fonksiyonuna buffer degil sadece cumle cumle gondermeli donen cumleleri toplayip birlestirmelsisin. ILk secenek daha mantikli gozukuyor.
+
+EKSTRA
+------
+buffer sadece 1024 yer ayiriyo sen lines uzerinden degisiklik yapmalisin . Uzun metinlerde patlar.
